@@ -1,0 +1,3 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+body { background-image: url(back.png); background-position: center;}
+h1{text-align: center; padding-top: 250px; font-family: "Goudy Stout"; font-size: 100px;  text-decoration: overline underline; letter-spacing: 10px; text-shadow:  3px 3px 5px hotpink; }
